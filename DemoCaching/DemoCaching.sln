@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoCaching", "DemoCacheing\DemoCaching.csproj", "{8C4DB515-B74D-4B5D-81A6-03FC76B89696}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoCaching", "DemoCaching.csproj", "{233AD9FC-DC3A-4D7B-8942-6F4E8E45E4B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8C4DB515-B74D-4B5D-81A6-03FC76B89696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8C4DB515-B74D-4B5D-81A6-03FC76B89696}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8C4DB515-B74D-4B5D-81A6-03FC76B89696}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8C4DB515-B74D-4B5D-81A6-03FC76B89696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{233AD9FC-DC3A-4D7B-8942-6F4E8E45E4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233AD9FC-DC3A-4D7B-8942-6F4E8E45E4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233AD9FC-DC3A-4D7B-8942-6F4E8E45E4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233AD9FC-DC3A-4D7B-8942-6F4E8E45E4B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FDFC99DB-FC3B-4468-94C7-E8356D84F8D7}
+		SolutionGuid = {3A1D4AAB-B439-4683-BBCF-B4BF5F036BE6}
 	EndGlobalSection
 EndGlobal
