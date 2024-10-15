@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace DemoCacheing.Database;
+namespace DemoCaching.Database;
 
 public partial class MainContext : DbContext
 {

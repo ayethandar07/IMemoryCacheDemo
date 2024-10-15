@@ -1,5 +1,5 @@
-using DemoCacheing.Database;
-using DemoCacheing.Services;
+using DemoCaching.Database;
+using DemoCaching.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

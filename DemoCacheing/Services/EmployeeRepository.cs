@@ -1,7 +1,7 @@
-﻿using DemoCacheing.Database;
+﻿using DemoCaching.Database;
 using Microsoft.EntityFrameworkCore;
 
-namespace DemoCacheing.Services;
+namespace DemoCaching.Services;
 
 public class EmployeeRepository(MainContext context)
 {

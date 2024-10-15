@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DemoCacheing.Database;
+namespace DemoCaching.Database;
 
 public partial class Employee
 {

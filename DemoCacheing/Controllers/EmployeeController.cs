@@ -1,10 +1,10 @@
-﻿using DemoCacheing.Database;
-using DemoCacheing.Services;
+﻿using DemoCaching.Database;
+using DemoCaching.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Caching.Memory;
 
-namespace DemoCacheing.Controllers;
+namespace DemoCaching.Controllers;
 
 [Route("api/")]
 [ApiController]

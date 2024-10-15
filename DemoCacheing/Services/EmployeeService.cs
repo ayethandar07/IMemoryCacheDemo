@@ -1,7 +1,7 @@
-﻿using DemoCacheing.Database;
+﻿using DemoCaching.Database;
 using Microsoft.Extensions.Caching.Memory;
 
-namespace DemoCacheing.Services;
+namespace DemoCaching.Services;
 
 public class EmployeeService(EmployeeRepository repository, IMemoryCache cache)
 {
